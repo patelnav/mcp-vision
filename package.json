@@ -1,11 +1,11 @@
 {
-  "name": "mcp-vision",
+  "name": "mcp-gemini-vision",
   "version": "1.0.0",
   "description": "Dead-simple MCP server for vision analysis with Google Gemini Flash-Lite",
   "type": "module",
   "main": "dist/index.js",
   "bin": {
-    "mcp-vision": "dist/index.js"
+    "mcp-gemini-vision": "dist/index.js"
   },
   "scripts": {
     "build": "tsc",

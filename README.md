@@ -84,7 +84,7 @@ Or using npx:
   "mcpServers": {
     "vision": {
       "command": "npx",
-      "args": ["-y", "mcp-vision"],
+      "args": ["-y", "mcp-gemini-vision"],
       "env": {
         "GEMINI_PROVIDER": "ais",
         "GEMINI_API_KEY": "your_api_key_here"
