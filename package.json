@@ -20,8 +20,16 @@
     "screenshot",
     "analysis"
   ],
-  "author": "",
+  "author": "Nav Patel",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/patelnav/mcp-vision.git"
+  },
+  "homepage": "https://github.com/patelnav/mcp-vision#readme",
+  "bugs": {
+    "url": "https://github.com/patelnav/mcp-vision/issues"
+  },
   "engines": {
     "node": ">=20.0.0"
   },
